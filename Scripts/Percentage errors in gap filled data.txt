@@ -1,0 +1,161 @@
+Belgium - Biomass  - Actual Aggregated [MW]: 4.891
+Belgium - Fossil Gas  - Actual Aggregated [MW]: 4.278
+Belgium - Hydro Run-of-river and poundage  - Actual Aggregated [MW]: 4.136
+Belgium - Nuclear  - Actual Aggregated [MW]: 5.855
+Belgium - Other  - Actual Aggregated [MW]: 4.887
+Belgium - Solar  - Actual Aggregated [MW]: 2.206
+Belgium - Waste  - Actual Aggregated [MW]: 5.085
+Belgium - Wind Onshore  - Actual Aggregated [MW]: 4.426
+Switzerland - Hydro Pumped Storage  - Actual Aggregated [MW]: 5.248
+Switzerland - Hydro Run-of-river and poundage  - Actual Aggregated [MW]: 4.042
+Switzerland - Hydro Water Reservoir  - Actual Aggregated [MW]: 6.229
+Switzerland - Nuclear  - Actual Aggregated [MW]: 5.582
+Switzerland - Solar  - Actual Aggregated [MW]: 3.291
+Switzerland - Wind Onshore  - Actual Aggregated [MW]: 2.022
+Denmark - Biomass  - Actual Aggregated [MW]: 4.314
+Denmark - Fossil Gas  - Actual Aggregated [MW]: 2.482
+Denmark - Fossil Hard coal  - Actual Aggregated [MW]: 3.702
+Denmark - Fossil Oil  - Actual Aggregated [MW]: 8.466
+Denmark - Solar  - Actual Aggregated [MW]: 4.779
+Denmark - Waste  - Actual Aggregated [MW]: 4.377
+Denmark - Wind Offshore  - Actual Aggregated [MW]: 6.551
+Denmark - Wind Onshore  - Actual Aggregated [MW]: 5.701
+Finland - Biomass  - Actual Aggregated [MW]: 3.771
+Finland - Fossil Hard coal  - Actual Aggregated [MW]: 3.26
+Finland - Fossil Oil  - Actual Aggregated [MW]: 40.294
+Finland - Hydro Run-of-river and poundage  - Actual Aggregated [MW]: 5.685
+Finland - Nuclear  - Actual Aggregated [MW]: 6.179
+Finland - Other  - Actual Aggregated [MW]: 5.363
+Finland - Other renewable  - Actual Aggregated [MW]: 4.433
+Finland - Waste  - Actual Aggregated [MW]: 5.42
+Finland - Wind Onshore  - Actual Aggregated [MW]: 3.164
+Latvia - Biomass  - Actual Aggregated [MW]: 5.925
+Latvia - Wind Onshore  - Actual Aggregated [MW]: 8.447
+Norway - Fossil Gas  - Actual Aggregated [MW]: 4.968
+Norway - Hydro Run-of-river and poundage  - Actual Aggregated [MW]: 4.743
+Norway - Hydro Water Reservoir  - Actual Aggregated [MW]: 3.981
+Norway - Other  - Actual Aggregated [MW]: 5.591
+Norway - Wind Onshore  - Actual Aggregated [MW]: 6.526
+Poland - Biomass  - Actual Aggregated [MW]: 4.919
+Poland - Fossil Brown coal/Lignite  - Actual Aggregated [MW]: 5.477
+Poland - Fossil Coal-derived gas  - Actual Aggregated [MW]: 5.191
+Poland - Fossil Gas  - Actual Aggregated [MW]: 4.507
+Poland - Fossil Hard coal  - Actual Aggregated [MW]: 4.256
+Poland - Fossil Oil  - Actual Aggregated [MW]: 3.781
+Poland - Hydro Pumped Storage  - Actual Aggregated [MW]: 5.546
+Poland - Hydro Run-of-river and poundage  - Actual Aggregated [MW]: 5.241
+Poland - Hydro Water Reservoir  - Actual Aggregated [MW]: 5.919
+Poland - Wind Onshore  - Actual Aggregated [MW]: 5.834
+Portugal - Biomass  - Actual Aggregated [MW]: 5.738
+Portugal - Fossil Gas  - Actual Aggregated [MW]: 4.005
+Portugal - Fossil Hard coal  - Actual Aggregated [MW]: 6.598
+Portugal - Hydro Pumped Storage  - Actual Aggregated [MW]: 6.426
+Portugal - Hydro Run-of-river and poundage  - Actual Aggregated [MW]: 5.538
+Portugal - Hydro Water Reservoir  - Actual Aggregated [MW]: 3.764
+Portugal - Other  - Actual Aggregated [MW]: 4.258
+Portugal - Solar  - Actual Aggregated [MW]: 3.197
+Portugal - Wind Onshore  - Actual Aggregated [MW]: 4.185
+Slovenia - Fossil Brown coal/Lignite  - Actual Aggregated [MW]: 5.153
+Slovenia - Fossil Gas  - Actual Aggregated [MW]: 5.549
+Slovenia - Hydro Run-of-river and poundage  - Actual Aggregated [MW]: 4.305
+Slovenia - Nuclear  - Actual Aggregated [MW]: 4.705
+Slovenia - Solar  - Actual Aggregated [MW]: 7.996
+Slovenia - Waste  - Actual Aggregated [MW]: 5.562
+Slovenia - Wind Onshore  - Actual Aggregated [MW]: 4.404
+Belgium - Actual Total Load [MW] - Belgium (BE): 4.768
+Switzerland - Actual Total Load [MW] - Switzerland (CH): 4.45
+Denmark - Actual Total Load [MW] - Denmark (DK): 6.547
+Finland - Actual Total Load [MW] - Finland (FI): 3.756
+Latvia - Actual Total Load [MW] - Latvia (LV): 3.792
+Norway - Actual Total Load [MW] - Norway (NO): 4.62
+Poland - Actual Total Load [MW] - Poland (PL): 5.042
+Portugal - Actual Total Load [MW] - Portugal (PT): 4.426
+Slovakia - Actual Total Load [MW] - Slovakia (SK): 3.68
+Slovenia - Actual Total Load [MW] - Slovenia (SI): 5.029
+AT - > CH - Switzerland (CH) > Austria (AT) [MW]: 5.107
+AT - > CH - Austria (AT) > Switzerland (CH) [MW]: 3.236
+AT - > CZ - Czech Republic (CZ) > Austria (AT) [MW]: 4.07
+AT - > DE - Germany (DE) > Austria (AT) [MW]: 4.01
+AT - > HU - Austria (AT) > Hungary (HU) [MW]: 5.535
+AT - > IT - Italy (IT) > Austria (AT) [MW]: 0.694
+AT - > IT - Austria (AT) > Italy (IT) [MW]: 5.404
+AT - > SI - Austria (AT) > Slovenia (SI) [MW]: 4.035
+BE - > FR - France (FR) > Belgium (BE) [MW]: 5.251
+BE - > FR - Belgium (BE) > France (FR) [MW]: 7.653
+BE - > LU - Luxembourg (LU) > Belgium (BE) [MW]: 10.001
+BE - > LU - Belgium (BE) > Luxembourg (LU) [MW]: 7.851
+BE - > NL - Netherlands (NL) > Belgium (BE) [MW]: 3.523
+BE - > NL - Belgium (BE) > Netherlands (NL) [MW]: 3.529
+BG - > RS - Serbia (RS) > Bulgaria (BG) [MW]: 6.404
+BG - > RS - Bulgaria (BG) > Serbia (RS) [MW]: 3.583
+CH - > DE - Germany (DE) > Switzerland (CH) [MW]: 4.769
+CH - > DE - Switzerland (CH) > Germany (DE) [MW]: 7.548
+CH - > FR - France (FR) > Switzerland (CH) [MW]: 4.572
+CH - > IT - Switzerland (CH) > Italy (IT) [MW]: 5.05
+CZ - > DE - Czech Republic (CZ) > Germany (DE) [MW]: 2.924
+CZ - > PL - Poland (PL) > Czech Republic (CZ) [MW]: 2.027
+CZ - > PL - Czech Republic (CZ) > Poland (PL) [MW]: 13.622
+CZ - > SK - Czech Republic (CZ) > Slovakia (SK) [MW]: 4.246
+DE - > DK - Denmark (DK) > Germany (DE) [MW]: 4.134
+DE - > DK - Germany (DE) > Denmark (DK) [MW]: 4.943
+DE - > LU - Germany (DE) > Luxembourg (LU) [MW]: 6.26
+DE - > PL - Germany (DE) > Poland (PL) [MW]: 3.874
+DK - > NO - Norway (NO) > Denmark (DK) [MW]: 2.164
+DK - > NO - Denmark (DK) > Norway (NO) [MW]: 4.709
+DK - > SE - Sweden (SE) > Denmark (DK) [MW]: 0.133
+DK - > SE - Denmark (DK) > Sweden (SE) [MW]: 2.038
+ES - > FR - France (FR) > Spain (ES) [MW]: 5.205
+ES - > PT - Portugal (PT) > Spain (ES) [MW]: 3.537
+ES - > PT - Spain (ES) > Portugal (PT) [MW]: 3.799
+FI - > NO - Finland (FI) > Norway (NO) [MW]: 6.984
+FI - > SE - Sweden (SE) > Finland (FI) [MW]: 3.466
+FI - > SE - Finland (FI) > Sweden (SE) [MW]: 2.51
+FR - > IT - Italy (IT) > France (FR) [MW]: 32.67
+FR - > IT - France (FR) > Italy (IT) [MW]: 3.397
+GR - > AL - Albania (AL) > Greece (GR) [MW]: 5.37
+GR - > AL - Greece (GR) > Albania (AL) [MW]: 4.695
+GR - > IT - Italy (IT) > Greece (GR) [MW]: 3.763
+GR - > IT - Greece (GR) > Italy (IT) [MW]: 9.652
+GR - > MK - North Macedonia (MK) > Greece (GR) [MW]: 4.31
+GR - > MK - Greece (GR) > North Macedonia (MK) [MW]: 2.698
+HR - > BA - Bosnia and Herz. (BA) > Croatia (HR) [MW]: 2.659
+HR - > BA - Croatia (HR) > Bosnia and Herz. (BA) [MW]: 7.253
+HR - > HU - Hungary (HU) > Croatia (HR) [MW]: 4.948
+HR - > HU - Croatia (HR) > Hungary (HU) [MW]: 0.019
+HR - > RS - Serbia (RS) > Croatia (HR) [MW]: 4.524
+HR - > RS - Croatia (HR) > Serbia (RS) [MW]: 4.78
+HR - > SI - Slovenia (SI) > Croatia (HR) [MW]: 5.443
+HU - > RO - Romania (RO) > Hungary (HU) [MW]: 4.559
+HU - > RO - Hungary (HU) > Romania (RO) [MW]: 9.08
+HU - > RS - Serbia (RS) > Hungary (HU) [MW]: 7.291
+HU - > SK - Slovakia (SK) > Hungary (HU) [MW]: 3.768
+HU - > SK - Hungary (HU) > Slovakia (SK) [MW]: 40.366
+IE - > UK - United Kingdom (UK) > Ireland (IE) [MW]: 4.044
+IE - > UK - Ireland (IE) > United Kingdom (UK) [MW]: 5.466
+LT - > PL - Lithuania (LT) > Poland (PL) [MW]: 7.275
+LT - > SE - Sweden (SE) > Lithuania (LT) [MW]: 5.112
+LT - > SE - Lithuania (LT) > Sweden (SE) [MW]: 4.776
+ME - > AL - Albania (AL) > Montenegro (ME) [MW]: 3.169
+ME - > AL - Montenegro (ME) > Albania (AL) [MW]: 4.411
+ME - > BA - Bosnia and Herz. (BA) > Montenegro (ME) [MW]: 5.176
+ME - > RS - Serbia (RS) > Montenegro (ME) [MW]: 7.467
+ME - > RS - Montenegro (ME) > Serbia (RS) [MW]: 3.387
+NL - > NO - Norway (NO) > Netherlands (NL) [MW]: 4.915
+NL - > NO - Netherlands (NL) > Norway (NO) [MW]: 7.021
+NL - > UK - United Kingdom (UK) > Netherlands (NL) [MW]: 11.131
+NL - > UK - Netherlands (NL) > United Kingdom (UK) [MW]: 3.442
+NO - > SE - Sweden (SE) > Norway (NO) [MW]: 2.913
+NO - > SE - Norway (NO) > Sweden (SE) [MW]: 3.853
+PL - > SE - Sweden (SE) > Poland (PL) [MW]: 4.503
+PL - > SE - Poland (PL) > Sweden (SE) [MW]: 8.218
+PL - > SK - Poland (PL) > Slovakia (SK) [MW]: 3.864
+PL - > UA - Ukraine (UA) > Poland (PL) [MW]: 6.41
+RS - > AL - Albania (AL) > Serbia (RS) [MW]: 4.11
+RS - > BA - Bosnia and Herz. (BA) > Serbia (RS) [MW]: 2.461
+RS - > BA - Serbia (RS) > Bosnia and Herz. (BA) [MW]: 2.948
+RS - > HR - Croatia (HR) > Serbia (RS) [MW]: 9.548
+RS - > HR - Serbia (RS) > Croatia (HR) [MW]: 4.425
+RS - > MK - North Macedonia (MK) > Serbia (RS) [MW]: 4.824
+RS - > MK - Serbia (RS) > North Macedonia (MK) [MW]: 3.561
+RS - > RO - Romania (RO) > Serbia (RS) [MW]: 6.759
+RS - > RO - Serbia (RS) > Romania (RO) [MW]: 6.816
