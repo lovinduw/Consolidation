@@ -1,0 +1,8 @@
+United Kingdom,Actual Total Load [MW] - United Kingdom (UK),12049,6,6,24381.0625, PLR, 2
+United Kingdom,Actual Total Load [MW] - United Kingdom (UK),12934,6,6,38972.52506160736, PLR, 10
+United Kingdom,Actual Total Load [MW] - United Kingdom (UK),14400,6,5,30814.674576271325, PLR, 1
+United Kingdom,Actual Total Load [MW] - United Kingdom (UK),14401,6,5,29520.481927711517, PLR, 1
+United Kingdom,Actual Total Load [MW] - United Kingdom (UK),14402,6,5,28281.257142856717, PLR, 1
+United Kingdom,Actual Total Load [MW] - United Kingdom (UK),14403,6,5,26716.164445638657, PLR, 10
+United Kingdom,Actual Total Load [MW] - United Kingdom (UK),14541,6,6,38596.69230769575, PLR, 1
+United Kingdom,Actual Total Load [MW] - United Kingdom (UK),16705,6,6,2892.1961327791214, PLR, 2
