@@ -1,8 +1,128 @@
-United Kingdom,Actual Total Load [MW] - United Kingdom (UK),12049,6,6,24381.0625, PLR, 2
-United Kingdom,Actual Total Load [MW] - United Kingdom (UK),12934,6,6,38972.52506160736, PLR, 10
-United Kingdom,Actual Total Load [MW] - United Kingdom (UK),14400,6,5,30814.674576271325, PLR, 1
-United Kingdom,Actual Total Load [MW] - United Kingdom (UK),14401,6,5,29520.481927711517, PLR, 1
-United Kingdom,Actual Total Load [MW] - United Kingdom (UK),14402,6,5,28281.257142856717, PLR, 1
-United Kingdom,Actual Total Load [MW] - United Kingdom (UK),14403,6,5,26716.164445638657, PLR, 10
-United Kingdom,Actual Total Load [MW] - United Kingdom (UK),14541,6,6,38596.69230769575, PLR, 1
-United Kingdom,Actual Total Load [MW] - United Kingdom (UK),16705,6,6,2892.1961327791214, PLR, 2
+Austria - Biomass  - Actual Aggregated [MW]: -0.014
+Austria - Fossil Gas  - Actual Aggregated [MW]: -0.095
+Austria - Fossil Hard coal  - Actual Aggregated [MW]: -0.402
+Austria - Hydro Pumped Storage  - Actual Aggregated [MW]: -3.491
+Austria - Hydro Run-of-river and poundage  - Actual Aggregated [MW]: 0.074
+Austria - Hydro Water Reservoir  - Actual Aggregated [MW]: -0.349
+Austria - Other  - Actual Aggregated [MW]: 0.0
+Austria - Solar  - Actual Aggregated [MW]: -1.336
+Austria - Waste  - Actual Aggregated [MW]: 0.0
+Austria - Wind Onshore  - Actual Aggregated [MW]: 0.656
+Denmark - Biomass  - Actual Aggregated [MW]: 0.243
+Denmark - Fossil Gas  - Actual Aggregated [MW]: 0.06
+Denmark - Fossil Hard coal  - Actual Aggregated [MW]: 0.406
+Denmark - Fossil Oil  - Actual Aggregated [MW]: -0.728
+Denmark - Solar  - Actual Aggregated [MW]: -0.856
+Denmark - Waste  - Actual Aggregated [MW]: 0.12
+Denmark - Wind Offshore  - Actual Aggregated [MW]: 0.275
+Denmark - Wind Onshore  - Actual Aggregated [MW]: 0.334
+Norway - Fossil Gas  - Actual Aggregated [MW]: 0.173
+Norway - Hydro Run-of-river and poundage  - Actual Aggregated [MW]: 0.179
+Norway - Hydro Water Reservoir  - Actual Aggregated [MW]: 0.447
+Norway - Other  - Actual Aggregated [MW]: 0.735
+Norway - Wind Onshore  - Actual Aggregated [MW]: -0.042
+Portugal - Biomass  - Actual Aggregated [MW]: -0.119
+Portugal - Fossil Gas  - Actual Aggregated [MW]: -0.223
+Portugal - Fossil Hard coal  - Actual Aggregated [MW]: 0.126
+Portugal - Hydro Pumped Storage  - Actual Aggregated [MW]: -2.574
+Portugal - Hydro Run-of-river and poundage  - Actual Aggregated [MW]: -0.251
+Portugal - Hydro Water Reservoir  - Actual Aggregated [MW]: -1.105
+Portugal - Other  - Actual Aggregated [MW]: -0.428
+Portugal - Solar  - Actual Aggregated [MW]: -1.471
+Portugal - Wind Onshore  - Actual Aggregated [MW]: -0.345
+Austria - Actual Total Load [MW] - Austria (AT): 0.169
+Denmark - Actual Total Load [MW] - Denmark (DK): 0.198
+Norway - Actual Total Load [MW] - Norway (NO): -0.095
+Portugal - Actual Total Load [MW] - Portugal (PT): -0.111
+AT - > CH - Switzerland (CH) > Austria (AT) [MW]: nan
+AT - > CH - Austria (AT) > Switzerland (CH) [MW]: 0.341
+AT - > CZ - Czech Republic (CZ) > Austria (AT) [MW]: -0.525
+AT - > CZ - Austria (AT) > Czech Republic (CZ) [MW]: -131.145
+AT - > DE - Germany (DE) > Austria (AT) [MW]: -1.409
+AT - > DE - Austria (AT) > Germany (DE) [MW]: -17.886
+AT - > HU - Hungary (HU) > Austria (AT) [MW]: -2.146
+AT - > HU - Austria (AT) > Hungary (HU) [MW]: 0.95
+AT - > IT - Italy (IT) > Austria (AT) [MW]: -13.303
+AT - > IT - Austria (AT) > Italy (IT) [MW]: -0.834
+AT - > SI - Slovenia (SI) > Austria (AT) [MW]: -7.443
+AT - > SI - Austria (AT) > Slovenia (SI) [MW]: -0.109
+DE - > DK - Denmark (DK) > Germany (DE) [MW]: 0.363
+DE - > DK - Germany (DE) > Denmark (DK) [MW]: 0.388
+DK - > NO - Norway (NO) > Denmark (DK) [MW]: -1.315
+DK - > NO - Denmark (DK) > Norway (NO) [MW]: 0.371
+DK - > NO - Norway (NO) > Denmark (DK) [MW]: 1.557
+DK - > NO - Denmark (DK) > Norway (NO) [MW]: -1.282
+DK - > SE - Sweden (SE) > Denmark (DK) [MW]: -3.346
+DK - > SE - Denmark (DK) > Sweden (SE) [MW]: 1.052
+ES - > PT - Portugal (PT) > Spain (ES) [MW]: -3.79
+ES - > PT - Spain (ES) > Portugal (PT) [MW]: -2.907
+FI - > NO - Norway (NO) > Finland (FI) [MW]: 3.79
+FI - > NO - Finland (FI) > Norway (NO) [MW]: -2.102
+NL - > NO - Norway (NO) > Netherlands (NL) [MW]: -2.267
+NL - > NO - Netherlands (NL) > Norway (NO) [MW]: 8.548
+NO - > SE - Sweden (SE) > Norway (NO) [MW]: -2.884
+NO - > SE - Norway (NO) > Sweden (SE) [MW]: 0.583
+Austria - Biomass  - Actual Aggregated [MW]: -0.0
+Austria - Fossil Gas  - Actual Aggregated [MW]: -0.051
+Austria - Fossil Hard coal  - Actual Aggregated [MW]: 0.11
+Austria - Hydro Pumped Storage  - Actual Aggregated [MW]: -0.848
+Austria - Hydro Run-of-river and poundage  - Actual Aggregated [MW]: -0.007
+Austria - Hydro Water Reservoir  - Actual Aggregated [MW]: 1.161
+Austria - Other  - Actual Aggregated [MW]: 0.0
+Austria - Solar  - Actual Aggregated [MW]: -0.445
+Austria - Waste  - Actual Aggregated [MW]: 0.0
+Austria - Wind Onshore  - Actual Aggregated [MW]: 0.514
+Denmark - Biomass  - Actual Aggregated [MW]: 0.306
+Denmark - Fossil Gas  - Actual Aggregated [MW]: 0.36
+Denmark - Fossil Hard coal  - Actual Aggregated [MW]: 0.882
+Denmark - Fossil Oil  - Actual Aggregated [MW]: 1.176
+Denmark - Solar  - Actual Aggregated [MW]: -0.01
+Denmark - Waste  - Actual Aggregated [MW]: 0.07
+Denmark - Wind Offshore  - Actual Aggregated [MW]: 0.05
+Denmark - Wind Onshore  - Actual Aggregated [MW]: 0.513
+Norway - Fossil Gas  - Actual Aggregated [MW]: nan
+Norway - Hydro Run-of-river and poundage  - Actual Aggregated [MW]: nan
+Norway - Hydro Water Reservoir  - Actual Aggregated [MW]: -0.274
+Norway - Other  - Actual Aggregated [MW]: nan
+Norway - Wind Onshore  - Actual Aggregated [MW]: 0.069
+Portugal - Biomass  - Actual Aggregated [MW]: 0.066
+Portugal - Fossil Gas  - Actual Aggregated [MW]: 0.098
+Portugal - Fossil Hard coal  - Actual Aggregated [MW]: 0.561
+Portugal - Hydro Pumped Storage  - Actual Aggregated [MW]: -1.059
+Portugal - Hydro Run-of-river and poundage  - Actual Aggregated [MW]: -0.421
+Portugal - Hydro Water Reservoir  - Actual Aggregated [MW]: -3.478
+Portugal - Other  - Actual Aggregated [MW]: -0.011
+Portugal - Solar  - Actual Aggregated [MW]: -2.673
+Portugal - Wind Onshore  - Actual Aggregated [MW]: 0.287
+Austria - Actual Total Load [MW] - Austria (AT): 0.155
+Denmark - Actual Total Load [MW] - Denmark (DK): 0.066
+Norway - Actual Total Load [MW] - Norway (NO): -0.018
+Portugal - Actual Total Load [MW] - Portugal (PT): -0.298
+AT - > CH - Switzerland (CH) > Austria (AT) [MW]: 12.092
+AT - > CH - Austria (AT) > Switzerland (CH) [MW]: -0.562
+AT - > CZ - Czech Republic (CZ) > Austria (AT) [MW]: 0.41
+AT - > CZ - Austria (AT) > Czech Republic (CZ) [MW]: -195.385
+AT - > DE - Germany (DE) > Austria (AT) [MW]: -0.471
+AT - > DE - Austria (AT) > Germany (DE) [MW]: -7.256
+AT - > HU - Hungary (HU) > Austria (AT) [MW]: 3.294
+AT - > HU - Austria (AT) > Hungary (HU) [MW]: -0.722
+AT - > IT - Italy (IT) > Austria (AT) [MW]: -2.021
+AT - > IT - Austria (AT) > Italy (IT) [MW]: -0.418
+AT - > SI - Slovenia (SI) > Austria (AT) [MW]: -6.49
+AT - > SI - Austria (AT) > Slovenia (SI) [MW]: 1.325
+DE - > DK - Denmark (DK) > Germany (DE) [MW]: -0.615
+DE - > DK - Germany (DE) > Denmark (DK) [MW]: 3.292
+DK - > NO - Norway (NO) > Denmark (DK) [MW]: -2.548
+DK - > NO - Denmark (DK) > Norway (NO) [MW]: 2.792
+DK - > NO - Norway (NO) > Denmark (DK) [MW]: -0.309
+DK - > NO - Denmark (DK) > Norway (NO) [MW]: -1.779
+DK - > SE - Sweden (SE) > Denmark (DK) [MW]: -2.69
+DK - > SE - Denmark (DK) > Sweden (SE) [MW]: -1.585
+ES - > PT - Portugal (PT) > Spain (ES) [MW]: 3.415
+ES - > PT - Spain (ES) > Portugal (PT) [MW]: -2.066
+FI - > NO - Norway (NO) > Finland (FI) [MW]: -2.614
+FI - > NO - Finland (FI) > Norway (NO) [MW]: -1.165
+NL - > NO - Norway (NO) > Netherlands (NL) [MW]: 0.017
+NL - > NO - Netherlands (NL) > Norway (NO) [MW]: 1.099
+NO - > SE - Sweden (SE) > Norway (NO) [MW]: 0.872
+NO - > SE - Norway (NO) > Sweden (SE) [MW]: 0.577
