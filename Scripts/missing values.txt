@@ -1,0 +1,504 @@
+before Belgium Hydro Pumped Storage  - Actual Aggregated [MW] 4157
+after Belgium Hydro Pumped Storage  - Actual Aggregated [MW] 5
+
+before Belgium Wind Offshore  - Actual Aggregated [MW] 836
+after Belgium Wind Offshore  - Actual Aggregated [MW] 0
+
+before Czech Republic Biomass  - Actual Aggregated [MW] 2
+after Czech Republic Biomass  - Actual Aggregated [MW] 0
+
+before Czech Republic Fossil Brown coal/Lignite  - Actual Aggregated [MW] 2
+after Czech Republic Fossil Brown coal/Lignite  - Actual Aggregated [MW] 0
+
+before Czech Republic Fossil Coal-derived gas  - Actual Aggregated [MW] 2
+after Czech Republic Fossil Coal-derived gas  - Actual Aggregated [MW] 0
+
+before Czech Republic Fossil Gas  - Actual Aggregated [MW] 2
+after Czech Republic Fossil Gas  - Actual Aggregated [MW] 0
+
+before Czech Republic Fossil Hard coal  - Actual Aggregated [MW] 2
+after Czech Republic Fossil Hard coal  - Actual Aggregated [MW] 0
+
+before Czech Republic Fossil Oil  - Actual Aggregated [MW] 5
+after Czech Republic Fossil Oil  - Actual Aggregated [MW] 0
+
+before Czech Republic Hydro Pumped Storage  - Actual Aggregated [MW] 3
+after Czech Republic Hydro Pumped Storage  - Actual Aggregated [MW] 0
+
+before Czech Republic Hydro Run-of-river and poundage  - Actual Aggregated [MW] 3
+after Czech Republic Hydro Run-of-river and poundage  - Actual Aggregated [MW] 0
+
+before Czech Republic Hydro Water Reservoir  - Actual Aggregated [MW] 3
+after Czech Republic Hydro Water Reservoir  - Actual Aggregated [MW] 0
+
+before Czech Republic Nuclear  - Actual Aggregated [MW] 2
+after Czech Republic Nuclear  - Actual Aggregated [MW] 0
+
+before Czech Republic Other  - Actual Aggregated [MW] 2
+after Czech Republic Other  - Actual Aggregated [MW] 0
+
+before Czech Republic Other renewable  - Actual Aggregated [MW] 2
+after Czech Republic Other renewable  - Actual Aggregated [MW] 0
+
+before Czech Republic Solar  - Actual Aggregated [MW] 4
+after Czech Republic Solar  - Actual Aggregated [MW] 0
+
+before Czech Republic Waste  - Actual Aggregated [MW] 5
+after Czech Republic Waste  - Actual Aggregated [MW] 0
+
+before Czech Republic Wind Onshore  - Actual Aggregated [MW] 2
+after Czech Republic Wind Onshore  - Actual Aggregated [MW] 0
+
+before Germany Fossil Coal-derived gas  - Actual Aggregated [MW] 34848
+after Germany Fossil Coal-derived gas  - Actual Aggregated [MW] 33864
+
+before Estonia Biomass  - Actual Aggregated [MW] 206
+after Estonia Biomass  - Actual Aggregated [MW] 0
+
+before Estonia Fossil Coal-derived gas  - Actual Aggregated [MW] 206
+after Estonia Fossil Coal-derived gas  - Actual Aggregated [MW] 0
+
+before Estonia Fossil Gas  - Actual Aggregated [MW] 206
+after Estonia Fossil Gas  - Actual Aggregated [MW] 0
+
+before Estonia Fossil Oil shale  - Actual Aggregated [MW] 206
+after Estonia Fossil Oil shale  - Actual Aggregated [MW] 0
+
+before Estonia Fossil Peat  - Actual Aggregated [MW] 206
+after Estonia Fossil Peat  - Actual Aggregated [MW] 0
+
+before Estonia Hydro Run-of-river and poundage  - Actual Aggregated [MW] 206
+after Estonia Hydro Run-of-river and poundage  - Actual Aggregated [MW] 0
+
+before Estonia Other  - Actual Aggregated [MW] 206
+after Estonia Other  - Actual Aggregated [MW] 0
+
+before Estonia Other renewable  - Actual Aggregated [MW] 206
+after Estonia Other renewable  - Actual Aggregated [MW] 0
+
+before Estonia Solar  - Actual Aggregated [MW] 206
+after Estonia Solar  - Actual Aggregated [MW] 0
+
+before Estonia Waste  - Actual Aggregated [MW] 206
+after Estonia Waste  - Actual Aggregated [MW] 0
+
+before Estonia Wind Onshore  - Actual Aggregated [MW] 206
+after Estonia Wind Onshore  - Actual Aggregated [MW] 0
+
+before Spain Biomass  - Actual Aggregated [MW] 1
+after Spain Biomass  - Actual Aggregated [MW] 0
+
+before Spain Fossil Brown coal/Lignite  - Actual Aggregated [MW] 1
+after Spain Fossil Brown coal/Lignite  - Actual Aggregated [MW] 0
+
+before Spain Fossil Coal-derived gas  - Actual Aggregated [MW] 1
+after Spain Fossil Coal-derived gas  - Actual Aggregated [MW] 0
+
+before Spain Fossil Gas  - Actual Aggregated [MW] 1
+after Spain Fossil Gas  - Actual Aggregated [MW] 0
+
+before Spain Fossil Hard coal  - Actual Aggregated [MW] 1
+after Spain Fossil Hard coal  - Actual Aggregated [MW] 0
+
+before Spain Fossil Oil  - Actual Aggregated [MW] 1
+after Spain Fossil Oil  - Actual Aggregated [MW] 0
+
+before Spain Fossil Oil shale  - Actual Aggregated [MW] 1
+after Spain Fossil Oil shale  - Actual Aggregated [MW] 0
+
+before Spain Fossil Peat  - Actual Aggregated [MW] 1
+after Spain Fossil Peat  - Actual Aggregated [MW] 0
+
+before Spain Geothermal  - Actual Aggregated [MW] 1
+after Spain Geothermal  - Actual Aggregated [MW] 0
+
+before Spain Hydro Pumped Storage  - Actual Aggregated [MW] 8760
+after Spain Hydro Pumped Storage  - Actual Aggregated [MW] 8664
+
+before Spain Hydro Run-of-river and poundage  - Actual Aggregated [MW] 1
+after Spain Hydro Run-of-river and poundage  - Actual Aggregated [MW] 0
+
+before Spain Hydro Water Reservoir  - Actual Aggregated [MW] 1
+after Spain Hydro Water Reservoir  - Actual Aggregated [MW] 0
+
+before Spain Marine  - Actual Aggregated [MW] 1
+after Spain Marine  - Actual Aggregated [MW] 0
+
+before Spain Nuclear  - Actual Aggregated [MW] 1
+after Spain Nuclear  - Actual Aggregated [MW] 0
+
+before Spain Other  - Actual Aggregated [MW] 1
+after Spain Other  - Actual Aggregated [MW] 0
+
+before Spain Other renewable  - Actual Aggregated [MW] 1
+after Spain Other renewable  - Actual Aggregated [MW] 0
+
+before Spain Solar  - Actual Aggregated [MW] 1
+after Spain Solar  - Actual Aggregated [MW] 0
+
+before Spain Waste  - Actual Aggregated [MW] 1
+after Spain Waste  - Actual Aggregated [MW] 0
+
+before Spain Wind Offshore  - Actual Aggregated [MW] 1
+after Spain Wind Offshore  - Actual Aggregated [MW] 0
+
+before Spain Wind Onshore  - Actual Aggregated [MW] 1
+after Spain Wind Onshore  - Actual Aggregated [MW] 0
+
+before Finland Biomass  - Actual Aggregated [MW] 2
+after Finland Biomass  - Actual Aggregated [MW] 0
+
+before Finland Fossil Gas  - Actual Aggregated [MW] 3
+after Finland Fossil Gas  - Actual Aggregated [MW] 0
+
+before Finland Fossil Hard coal  - Actual Aggregated [MW] 3
+after Finland Fossil Hard coal  - Actual Aggregated [MW] 0
+
+before Finland Fossil Oil  - Actual Aggregated [MW] 3
+after Finland Fossil Oil  - Actual Aggregated [MW] 0
+
+before Finland Fossil Peat  - Actual Aggregated [MW] 2
+after Finland Fossil Peat  - Actual Aggregated [MW] 0
+
+before Finland Hydro Run-of-river and poundage  - Actual Aggregated [MW] 3
+after Finland Hydro Run-of-river and poundage  - Actual Aggregated [MW] 0
+
+before Finland Nuclear  - Actual Aggregated [MW] 2
+after Finland Nuclear  - Actual Aggregated [MW] 0
+
+before Finland Other  - Actual Aggregated [MW] 2
+after Finland Other  - Actual Aggregated [MW] 0
+
+before Finland Other renewable  - Actual Aggregated [MW] 3
+after Finland Other renewable  - Actual Aggregated [MW] 0
+
+before Finland Waste  - Actual Aggregated [MW] 3
+after Finland Waste  - Actual Aggregated [MW] 0
+
+before Finland Wind Onshore  - Actual Aggregated [MW] 2
+after Finland Wind Onshore  - Actual Aggregated [MW] 0
+
+before France Biomass  - Actual Aggregated [MW] 4
+after France Biomass  - Actual Aggregated [MW] 0
+
+before France Fossil Gas  - Actual Aggregated [MW] 4
+after France Fossil Gas  - Actual Aggregated [MW] 0
+
+before France Fossil Hard coal  - Actual Aggregated [MW] 842
+after France Fossil Hard coal  - Actual Aggregated [MW] 59
+
+before France Fossil Oil  - Actual Aggregated [MW] 4
+after France Fossil Oil  - Actual Aggregated [MW] 0
+
+before France Hydro Pumped Storage  - Actual Aggregated [MW] 3847
+after France Hydro Pumped Storage  - Actual Aggregated [MW] 62
+
+before France Hydro Run-of-river and poundage  - Actual Aggregated [MW] 4
+after France Hydro Run-of-river and poundage  - Actual Aggregated [MW] 0
+
+before France Hydro Water Reservoir  - Actual Aggregated [MW] 4
+after France Hydro Water Reservoir  - Actual Aggregated [MW] 0
+
+before France Nuclear  - Actual Aggregated [MW] 4
+after France Nuclear  - Actual Aggregated [MW] 0
+
+before France Solar  - Actual Aggregated [MW] 3
+after France Solar  - Actual Aggregated [MW] 0
+
+before France Waste  - Actual Aggregated [MW] 4
+after France Waste  - Actual Aggregated [MW] 0
+
+before France Wind Onshore  - Actual Aggregated [MW] 4
+after France Wind Onshore  - Actual Aggregated [MW] 0
+
+before Greece Fossil Brown coal/Lignite  - Actual Aggregated [MW] 3
+after Greece Fossil Brown coal/Lignite  - Actual Aggregated [MW] 0
+
+before Greece Fossil Gas  - Actual Aggregated [MW] 3
+after Greece Fossil Gas  - Actual Aggregated [MW] 0
+
+before Greece Fossil Oil  - Actual Aggregated [MW] 3
+after Greece Fossil Oil  - Actual Aggregated [MW] 0
+
+before Greece Geothermal  - Actual Aggregated [MW] 8760
+after Greece Geothermal  - Actual Aggregated [MW] 8664
+
+before Greece Solar  - Actual Aggregated [MW] 2
+after Greece Solar  - Actual Aggregated [MW] 0
+
+before Greece Wind Onshore  - Actual Aggregated [MW] 2
+after Greece Wind Onshore  - Actual Aggregated [MW] 0
+
+before Hungary Fossil Oil  - Actual Aggregated [MW] 11089
+after Hungary Fossil Oil  - Actual Aggregated [MW] 6023
+
+before Hungary Hydro Water Reservoir  - Actual Aggregated [MW] 18
+after Hungary Hydro Water Reservoir  - Actual Aggregated [MW] 0
+
+before Hungary Wind Onshore  - Actual Aggregated [MW] 1016
+after Hungary Wind Onshore  - Actual Aggregated [MW] 0
+
+before Ireland Fossil Gas  - Actual Aggregated [MW] 52
+after Ireland Fossil Gas  - Actual Aggregated [MW] 0
+
+before Ireland Fossil Hard coal  - Actual Aggregated [MW] 52
+after Ireland Fossil Hard coal  - Actual Aggregated [MW] 0
+
+before Ireland Fossil Oil  - Actual Aggregated [MW] 52
+after Ireland Fossil Oil  - Actual Aggregated [MW] 0
+
+before Ireland Fossil Peat  - Actual Aggregated [MW] 52
+after Ireland Fossil Peat  - Actual Aggregated [MW] 0
+
+before Ireland Hydro Pumped Storage  - Actual Aggregated [MW] 52
+after Ireland Hydro Pumped Storage  - Actual Aggregated [MW] 0
+
+before Ireland Hydro Run-of-river and poundage  - Actual Aggregated [MW] 52
+after Ireland Hydro Run-of-river and poundage  - Actual Aggregated [MW] 0
+
+before Ireland Other  - Actual Aggregated [MW] 52
+after Ireland Other  - Actual Aggregated [MW] 0
+
+before Ireland Wind Onshore  - Actual Aggregated [MW] 10
+after Ireland Wind Onshore  - Actual Aggregated [MW] 0
+
+before Italy Biomass  - Actual Aggregated [MW] 9
+after Italy Biomass  - Actual Aggregated [MW] 0
+
+before Italy Fossil Coal-derived gas  - Actual Aggregated [MW] 9
+after Italy Fossil Coal-derived gas  - Actual Aggregated [MW] 0
+
+before Italy Fossil Gas  - Actual Aggregated [MW] 9
+after Italy Fossil Gas  - Actual Aggregated [MW] 0
+
+before Italy Fossil Hard coal  - Actual Aggregated [MW] 9
+after Italy Fossil Hard coal  - Actual Aggregated [MW] 0
+
+before Italy Fossil Oil  - Actual Aggregated [MW] 9
+after Italy Fossil Oil  - Actual Aggregated [MW] 0
+
+before Italy Geothermal  - Actual Aggregated [MW] 9
+after Italy Geothermal  - Actual Aggregated [MW] 0
+
+before Italy Hydro Pumped Storage  - Actual Aggregated [MW] 10
+after Italy Hydro Pumped Storage  - Actual Aggregated [MW] 0
+
+before Italy Hydro Run-of-river and poundage  - Actual Aggregated [MW] 9
+after Italy Hydro Run-of-river and poundage  - Actual Aggregated [MW] 0
+
+before Italy Hydro Water Reservoir  - Actual Aggregated [MW] 9
+after Italy Hydro Water Reservoir  - Actual Aggregated [MW] 0
+
+before Italy Other  - Actual Aggregated [MW] 177
+after Italy Other  - Actual Aggregated [MW] 66
+
+before Italy Solar  - Actual Aggregated [MW] 9
+after Italy Solar  - Actual Aggregated [MW] 0
+
+before Italy Waste  - Actual Aggregated [MW] 9
+after Italy Waste  - Actual Aggregated [MW] 0
+
+before Italy Wind Onshore  - Actual Aggregated [MW] 9
+after Italy Wind Onshore  - Actual Aggregated [MW] 0
+
+before Lithuania Biomass  - Actual Aggregated [MW] 33
+after Lithuania Biomass  - Actual Aggregated [MW] 0
+
+before Lithuania Fossil Gas  - Actual Aggregated [MW] 33
+after Lithuania Fossil Gas  - Actual Aggregated [MW] 0
+
+before Lithuania Hydro Pumped Storage  - Actual Aggregated [MW] 33
+after Lithuania Hydro Pumped Storage  - Actual Aggregated [MW] 0
+
+before Lithuania Hydro Run-of-river and poundage  - Actual Aggregated [MW] 33
+after Lithuania Hydro Run-of-river and poundage  - Actual Aggregated [MW] 0
+
+before Lithuania Other  - Actual Aggregated [MW] 33
+after Lithuania Other  - Actual Aggregated [MW] 0
+
+before Lithuania Solar  - Actual Aggregated [MW] 33
+after Lithuania Solar  - Actual Aggregated [MW] 0
+
+before Lithuania Waste  - Actual Aggregated [MW] 33
+after Lithuania Waste  - Actual Aggregated [MW] 0
+
+before Lithuania Wind Onshore  - Actual Aggregated [MW] 33
+after Lithuania Wind Onshore  - Actual Aggregated [MW] 0
+
+before Latvia Biomass  - Actual Aggregated [MW] 10
+after Latvia Biomass  - Actual Aggregated [MW] 0
+
+before Latvia Fossil Gas  - Actual Aggregated [MW] 10
+after Latvia Fossil Gas  - Actual Aggregated [MW] 0
+
+before Latvia Hydro Run-of-river and poundage  - Actual Aggregated [MW] 10
+after Latvia Hydro Run-of-river and poundage  - Actual Aggregated [MW] 0
+
+before Latvia Other  - Actual Aggregated [MW] 10
+after Latvia Other  - Actual Aggregated [MW] 0
+
+before Latvia Wind Onshore  - Actual Aggregated [MW] 10
+after Latvia Wind Onshore  - Actual Aggregated [MW] 0
+
+before Montenegro Other renewable  - Actual Aggregated [MW] 3623
+after Montenegro Other renewable  - Actual Aggregated [MW] 3524
+
+before Montenegro Wind Onshore  - Actual Aggregated [MW] 3623
+after Montenegro Wind Onshore  - Actual Aggregated [MW] 3524
+
+before Netherlands Fossil Hard coal  - Actual Aggregated [MW] 10
+after Netherlands Fossil Hard coal  - Actual Aggregated [MW] 0
+
+before Netherlands Hydro Run-of-river and poundage  - Actual Aggregated [MW] 8611
+after Netherlands Hydro Run-of-river and poundage  - Actual Aggregated [MW] 7253
+
+before Netherlands Other  - Actual Aggregated [MW] 10
+after Netherlands Other  - Actual Aggregated [MW] 0
+
+before Netherlands Wind Offshore  - Actual Aggregated [MW] 2
+after Netherlands Wind Offshore  - Actual Aggregated [MW] 0
+
+before Netherlands Wind Onshore  - Actual Aggregated [MW] 2
+after Netherlands Wind Onshore  - Actual Aggregated [MW] 0
+
+before Norway Fossil Gas  - Actual Aggregated [MW] 1
+after Norway Fossil Gas  - Actual Aggregated [MW] 0
+
+before Norway Hydro Run-of-river and poundage  - Actual Aggregated [MW] 1
+after Norway Hydro Run-of-river and poundage  - Actual Aggregated [MW] 0
+
+before Norway Hydro Water Reservoir  - Actual Aggregated [MW] 1
+after Norway Hydro Water Reservoir  - Actual Aggregated [MW] 0
+
+before Norway Other  - Actual Aggregated [MW] 5
+after Norway Other  - Actual Aggregated [MW] 0
+
+before Norway Wind Onshore  - Actual Aggregated [MW] 1
+after Norway Wind Onshore  - Actual Aggregated [MW] 0
+
+before Serbia Biomass  - Actual Aggregated [MW] 33
+after Serbia Biomass  - Actual Aggregated [MW] 0
+
+before Serbia Fossil Brown coal/Lignite  - Actual Aggregated [MW] 33
+after Serbia Fossil Brown coal/Lignite  - Actual Aggregated [MW] 0
+
+before Serbia Fossil Gas  - Actual Aggregated [MW] 33
+after Serbia Fossil Gas  - Actual Aggregated [MW] 0
+
+before Serbia Hydro Pumped Storage  - Actual Aggregated [MW] 33
+after Serbia Hydro Pumped Storage  - Actual Aggregated [MW] 0
+
+before Serbia Hydro Run-of-river and poundage  - Actual Aggregated [MW] 9
+after Serbia Hydro Run-of-river and poundage  - Actual Aggregated [MW] 0
+
+before Serbia Hydro Water Reservoir  - Actual Aggregated [MW] 33
+after Serbia Hydro Water Reservoir  - Actual Aggregated [MW] 0
+
+before Serbia Other  - Actual Aggregated [MW] 9
+after Serbia Other  - Actual Aggregated [MW] 0
+
+before Sweden Wind Onshore  - Actual Aggregated [MW] 1
+after Sweden Wind Onshore  - Actual Aggregated [MW] 0
+
+before Slovenia Biomass  - Actual Aggregated [MW] 1
+after Slovenia Biomass  - Actual Aggregated [MW] 0
+
+before Slovenia Fossil Brown coal/Lignite  - Actual Aggregated [MW] 1
+after Slovenia Fossil Brown coal/Lignite  - Actual Aggregated [MW] 0
+
+before Slovenia Fossil Gas  - Actual Aggregated [MW] 1
+after Slovenia Fossil Gas  - Actual Aggregated [MW] 0
+
+before Slovenia Fossil Oil  - Actual Aggregated [MW] 1
+after Slovenia Fossil Oil  - Actual Aggregated [MW] 0
+
+before Slovenia Hydro Pumped Storage  - Actual Aggregated [MW] 1
+after Slovenia Hydro Pumped Storage  - Actual Aggregated [MW] 0
+
+before Slovenia Hydro Run-of-river and poundage  - Actual Aggregated [MW] 1
+after Slovenia Hydro Run-of-river and poundage  - Actual Aggregated [MW] 0
+
+before Slovenia Nuclear  - Actual Aggregated [MW] 1
+after Slovenia Nuclear  - Actual Aggregated [MW] 0
+
+before Slovenia Solar  - Actual Aggregated [MW] 1
+after Slovenia Solar  - Actual Aggregated [MW] 0
+
+before Slovenia Waste  - Actual Aggregated [MW] 1
+after Slovenia Waste  - Actual Aggregated [MW] 0
+
+before Slovenia Wind Onshore  - Actual Aggregated [MW] 1
+after Slovenia Wind Onshore  - Actual Aggregated [MW] 0
+
+before Slovakia Biomass  - Actual Aggregated [MW] 97
+after Slovakia Biomass  - Actual Aggregated [MW] 0
+
+before Slovakia Fossil Brown coal/Lignite  - Actual Aggregated [MW] 97
+after Slovakia Fossil Brown coal/Lignite  - Actual Aggregated [MW] 0
+
+before Slovakia Fossil Gas  - Actual Aggregated [MW] 97
+after Slovakia Fossil Gas  - Actual Aggregated [MW] 0
+
+before Slovakia Fossil Hard coal  - Actual Aggregated [MW] 97
+after Slovakia Fossil Hard coal  - Actual Aggregated [MW] 0
+
+before Slovakia Fossil Oil  - Actual Aggregated [MW] 97
+after Slovakia Fossil Oil  - Actual Aggregated [MW] 0
+
+before Slovakia Hydro Pumped Storage  - Actual Aggregated [MW] 2437
+after Slovakia Hydro Pumped Storage  - Actual Aggregated [MW] 9
+
+before Slovakia Hydro Run-of-river and poundage  - Actual Aggregated [MW] 97
+after Slovakia Hydro Run-of-river and poundage  - Actual Aggregated [MW] 0
+
+before Slovakia Hydro Water Reservoir  - Actual Aggregated [MW] 1755
+after Slovakia Hydro Water Reservoir  - Actual Aggregated [MW] 2
+
+before Slovakia Nuclear  - Actual Aggregated [MW] 97
+after Slovakia Nuclear  - Actual Aggregated [MW] 0
+
+before Slovakia Other  - Actual Aggregated [MW] 97
+after Slovakia Other  - Actual Aggregated [MW] 0
+
+before Slovakia Other renewable  - Actual Aggregated [MW] 97
+after Slovakia Other renewable  - Actual Aggregated [MW] 0
+
+before Slovakia Solar  - Actual Aggregated [MW] 97
+after Slovakia Solar  - Actual Aggregated [MW] 0
+
+before Slovakia Wind Onshore  - Actual Aggregated [MW] 97
+after Slovakia Wind Onshore  - Actual Aggregated [MW] 0
+
+before United Kingdom Biomass  - Actual Aggregated [MW] 58
+after United Kingdom Biomass  - Actual Aggregated [MW] 0
+
+before United Kingdom Fossil Gas  - Actual Aggregated [MW] 64
+after United Kingdom Fossil Gas  - Actual Aggregated [MW] 0
+
+before United Kingdom Fossil Hard coal  - Actual Aggregated [MW] 64
+after United Kingdom Fossil Hard coal  - Actual Aggregated [MW] 0
+
+before United Kingdom Fossil Oil  - Actual Aggregated [MW] 64
+after United Kingdom Fossil Oil  - Actual Aggregated [MW] 0
+
+before United Kingdom Hydro Pumped Storage  - Actual Aggregated [MW] 58
+after United Kingdom Hydro Pumped Storage  - Actual Aggregated [MW] 0
+
+before United Kingdom Hydro Run-of-river and poundage  - Actual Aggregated [MW] 58
+after United Kingdom Hydro Run-of-river and poundage  - Actual Aggregated [MW] 0
+
+before United Kingdom Nuclear  - Actual Aggregated [MW] 58
+after United Kingdom Nuclear  - Actual Aggregated [MW] 0
+
+before United Kingdom Other  - Actual Aggregated [MW] 64
+after United Kingdom Other  - Actual Aggregated [MW] 0
+
+before United Kingdom Solar  - Actual Aggregated [MW] 5
+after United Kingdom Solar  - Actual Aggregated [MW] 0
+
+before United Kingdom Wind Offshore  - Actual Aggregated [MW] 5
+after United Kingdom Wind Offshore  - Actual Aggregated [MW] 0
+
+before United Kingdom Wind Onshore  - Actual Aggregated [MW] 11
+after United Kingdom Wind Onshore  - Actual Aggregated [MW] 0
+
