@@ -1,73 +1,28 @@
-,Country,Generation type,Based on per generator,Based on per type
-0,Austria,Fossil Hard coal,1439190.0,1422419.5
-1,Austria,Hydro Run-of-river and poundage,11300264.0,25363701.25
-2,Austria,Hydro Water Reservoir,2018345.0,4650928.5
-3,Austria,Hydro Pumped Storage,3009729.0,4696467.0
-4,Austria,Fossil Gas,7458582.0,8166846.0
-5,Belgium,Biomass,1493407.0,2619943.0
-6,Belgium,Hydro Pumped Storage,1014065.0,999764.0
-7,Belgium,Wind Offshore,3295644.0,3321049.0
-8,Belgium,Nuclear,27255049.0,27251673.0
-9,Belgium,Fossil Gas,17182561.0,22303256.0
-10,Czech Republic,Fossil Hard coal,1243995.0,3487625.0
-11,Czech Republic,Hydro Pumped Storage,987174.0,1041674.0
-12,Czech Republic,Nuclear,28187334.0,28228525.0
-13,Czech Republic,Fossil Gas,1729169.0,3357028.0
-14,Czech Republic,Fossil Brown coal/Lignite,21882971.0,33727959.0
-15,Estonia,Fossil Oil shale,9591722.0,8219587.0
-16,Finland,Biomass,1627780.0,6405436.0
-17,Finland,Other,755746.0,1403978.0
-18,Finland,Fossil Hard coal,5093275.0,5971031.0
-19,Finland,Nuclear,21888634.0,21884428.0
-20,Finland,Fossil Gas,2081816.0,4999951.0
-21,Finland,Fossil Oil,4814.0,17314.0
-22,Finland,Fossil Peat,2618173.0,4275378.0
-23,France,Biomass,329476.0,3488459.0
-24,France,Other,3710.0,0.0
-25,France,Fossil Hard coal,5652327.0,5799738.0
-26,France,Hydro Run-of-river and poundage,451937.0,42834820.0
-27,France,Hydro Water Reservoir,3606375.0,17672839.0
-28,France,Hydro Pumped Storage,5947558.0,5416326.0
-29,France,Nuclear,392564405.0,391634703.0
-30,France,Fossil Gas,20271523.0,29915340.0
-31,France,Fossil Oil,258955.0,1898524.0
-32,Greece,Hydro Pumped Storage,647982.0,0.0
-33,Greece,Hydro Water Reservoir,4334370.0,0.0
-34,Greece,Hydro Run-of-river and poundage,30307.0,0.0
-35,Greece,Fossil Gas,15145776.0,15235054.0
-36,Greece,Fossil Brown coal/Lignite,15187437.0,15212858.0
-37,Latvia,Hydro Run-of-river and poundage,182725.0,2363628.0
-38,Latvia,Fossil Gas,1898372.0,2647016.0
-39,Lithuania,Hydro Pumped Storage,524505.0,522862.0
-40,Lithuania,Fossil Gas,63982.0,261197.0
-41,Montenegro,Fossil Brown coal/Lignite,1440926.0,1443833.0
-42,Montenegro,Hydro Water Reservoir,992044.0,1290781.0
-43,Netherlands,Fossil Hard coal,27134205.0,27191896.25
-44,Netherlands,Nuclear,3328587.0,3328763.5
-45,Netherlands,Fossil Gas,38301699.0,36995140.75
-46,Netherlands,Other,933798.0,18987752.5
-47,Poland,Biomass,1378395.0,1800677.0
-48,Poland,Fossil Hard coal,64904115.0,79678396.0
-49,Poland,Hydro Pumped Storage,557848.0,633012.0
-50,Poland,Fossil Gas,7246433.0,8683353.0
-51,Poland,Fossil Brown coal/Lignite,45582314.0,44690985.0
-52,Portugal,Fossil Hard coal,3065882.0,11164713.0
-53,Portugal,Hydro Run-of-river and poundage,6113425.0,7313956.0
-54,Portugal,Hydro Pumped Storage,2739805.0,3110272.0
-55,Portugal,Hydro Water Reservoir,1604356.0,2981741.0
-56,Portugal,Fossil Gas,10189693.0,14530630.0
-57,Spain,Hydro Water Reservoir,8512779.0,25410774.0
-58,Spain,Fossil Hard coal,35010308.0,32342306.0
-59,Spain,Nuclear,53321852.0,53273309.0
-60,Spain,Fossil Gas,26801009.0,50961999.0
-61,Sweden,Biomass,612860.0,0.0
-62,Sweden,Fossil Hard coal,378609.0,0.0
-63,Sweden,Hydro Water Reservoir,15907478.0,62112759.0
-64,Sweden,Nuclear,65693431.0,65787610.0
-65,Sweden,Fossil Gas,408332.0,0.0
-66,Sweden,Fossil Oil,31419.0,0.0
-67,Sweden,Fossil Peat,152468.0,0.0
-68,Switzerland,Nuclear,24807868.0,24806689.0
-69,Switzerland,Hydro Pumped Storage,3765977.0,6885838.0
-70,Switzerland,Hydro Run-of-river and poundage,910911.0,1534281.0
-71,Switzerland,Hydro Water Reservoir,8413786.0,10290610.0
+,abbr
+0,AT
+1,BE
+2,BG
+3,CH
+4,CZ
+5,DE
+6,DK
+7,EE
+8,ES
+9,FI
+10,FR
+11,GR
+12,HU
+13,IE
+14,IT
+15,LT
+16,LV
+17,ME
+18,NL
+19,NO
+20,PL
+21,PT
+22,RS
+23,SE
+24,SI
+25,SK
+26,GB
