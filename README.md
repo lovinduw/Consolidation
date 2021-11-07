@@ -1,4 +1,4 @@
-# Consolidation
+# Consolidation of European Power Data
 Consolidation of European Power System Data
 European Network of Transmission System Operators for Electricity (ENTSO-E) publishes electricity generation,load, transmission and other data of 35 countries in their operating region.
 These data have missing observations and mismatched in the data.
